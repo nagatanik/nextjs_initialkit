@@ -2,7 +2,7 @@
 
 const Home = () => {
   return (
-    <p>Hello World!!</p>
+    <p>Hello World Next.js!!</p>
     
   )
 }
